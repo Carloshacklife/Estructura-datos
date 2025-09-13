@@ -1,0 +1,11 @@
+En la clase del dia de hoy aprendimos a como crear un buscador de palabras en visual studio code.
+Dentro de lo que pudimos ver , para poder empezar a programar colocamos el signo de ¡ y luego TAB.
+Luego procedemos a cambiar el titulo con el nombre de nuestro proyecto dentro de title.
+Luego para crear etiquetas escribimos div.container para decir un ejemplo y luego dentro de las comillas ponemos ecribe algo aqui.
+
+Para hacer un cuadro de texto le damos a input, luego punto entrada#txt y la tecla de tab.
+A continuacion le damos dentro de la ultima entrada dentro de los signos <>, le damos a espacio y escribimos placeholder y luego tab.
+
+Luego dentro de las comillas escribimos la informacion que queremos,por ejemplo "escriba una palabra"
+
+Para crear los botones ponemos input:button.botones#btnagregar y luego a tab para crear el boton.
